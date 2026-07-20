@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tax-board-cage-candy.trycloudflare.com/vnc.html
+URL       : https://students-beef-lane-tables.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-19 21:01:47
+Created   : 2026-07-20 03:46:55
 =======================================================
