@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://checks-battle-craft-overall.trycloudflare.com/vnc.html
+URL       : https://diary-mystery-part-dry.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-24 07:39:42
+Created   : 2026-07-24 11:49:38
 =======================================================
