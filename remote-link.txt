@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://juvenile-driven-targets-architect.trycloudflare.com/vnc.html
+URL       : https://fuzzy-span-accent-camp.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 10:39:15
+Created   : 2026-08-20 15:42:45
 =======================================================
