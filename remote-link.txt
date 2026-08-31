@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://existence-same-recruitment-phantom.trycloudflare.com/vnc.html
+URL       : https://arrive-debian-plants-color.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-31 11:35:24
+Created   : 2026-08-31 20:46:50
 =======================================================
