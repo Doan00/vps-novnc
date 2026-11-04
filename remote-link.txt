@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://handling-lead-deserve-adjustments.trycloudflare.com/vnc.html
+URL       : https://gently-entrepreneurs-tenant-gene.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 17:42:00
+Created   : 2026-11-04 00:33:24
 =======================================================
