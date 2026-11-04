@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://made-wax-bare-solid.trycloudflare.com/vnc.html
+URL       : https://against-our-legislature-pharmaceuticals.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 12:54:41
+Created   : 2026-11-04 21:14:10
 =======================================================
