@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://each-operational-bolt-wages.trycloudflare.com/vnc.html
+URL       : https://appearance-identified-arc-waterproof.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 12:51:22
+Created   : 2026-11-06 20:49:45
 =======================================================
