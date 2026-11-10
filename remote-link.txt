@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://judgment-patient-talk-above.trycloudflare.com/vnc.html
+URL       : https://princess-environments-licenses-isle.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-10 06:55:48
+Created   : 2026-11-10 17:39:31
 =======================================================
