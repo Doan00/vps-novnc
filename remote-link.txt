@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://acc-submitted-principle-violin.trycloudflare.com/vnc.html
+URL       : https://judgment-patient-talk-above.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-09 20:37:39
+Created   : 2026-11-10 06:55:48
 =======================================================
