@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://roy-purchases-quite-december.trycloudflare.com/vnc.html
+URL       : https://burner-sic-understood-infinite.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-14 05:55:40
+Created   : 2026-11-14 16:31:09
 =======================================================
