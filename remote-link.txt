@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wives-cruz-instructions-edges.trycloudflare.com/vnc.html
+URL       : https://roy-purchases-quite-december.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-13 12:58:59
+Created   : 2026-11-14 05:55:40
 =======================================================
