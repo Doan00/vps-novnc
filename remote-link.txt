@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mar-transition-exceptions-inspection.trycloudflare.com/vnc.html
+URL       : https://draw-freebsd-powerful-networks.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-22 21:00:49
+Created   : 2026-11-23 07:03:51
 =======================================================
